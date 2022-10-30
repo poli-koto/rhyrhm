@@ -1,4 +1,4 @@
-# rhythm
+# РИТМ
 https://poli-koto.github.io/rhythm/
 
 Одностраничный адаптивный сайт    
